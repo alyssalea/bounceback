@@ -3,7 +3,7 @@ var speed
 var w = 1
 
 function setup() {
-  createCanvas(600,600);
+  createCanvas(windowWidth,windowHeight);
   //background(255,0,255);
 }
 
